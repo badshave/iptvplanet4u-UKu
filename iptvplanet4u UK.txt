@@ -1,0 +1,965 @@
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: DOCUMENTARY =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: DOCUMENTARY =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102133
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="UK-4K: SYFY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SYFY_HD.png" group-title="EU UK",UK-4K: SYFY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102134
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: SMITHSONIAN CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Smithsonian_HD.png" group-title="EU UK",UK-4K: SMITHSONIAN CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102135
+#EXTINF:-1 tvg-ID="Paramount.uk" tvg-name="UK-4K: PARAMOUNT NETWORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Paramount_Channel.png" group-title="EU UK",UK-4K: PARAMOUNT NETWORK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102136
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="UK-4K: HISTORY 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_History2.png" group-title="EU UK",UK-4K: HISTORY 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102138
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK-4K: HISTORY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_History.png" group-title="EU UK",UK-4K: HISTORY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102139
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK-4K: CRIME&INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Crime+Inv.png" group-title="EU UK",UK-4K: CRIME&INVESTIGATION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102140
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK-4K: ANIMAL PLANET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Animal_Planet.png" group-title="EU UK",UK-4K: ANIMAL PLANET
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102141
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK-4K: NAT GEO WILD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nat_Geo_Wild.png" group-title="EU UK",UK-4K: NAT GEO WILD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102142
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK-4K: NAT GEO" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nat_Geo_HD.png" group-title="EU UK",UK-4K: NAT GEO
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102143
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK-4K: DISCOVERY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery.png" group-title="EU UK",UK-4K: DISCOVERY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102144
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: DOCUMENTARY =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: DOCUMENTARY =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102145
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK-SD: DISCOVERY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery.png" group-title="EU UK",UK-SD: DISCOVERY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102146
+#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="UK-SD: DISCOVERY HISTORY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery_History.png" group-title="EU UK",UK-SD: DISCOVERY HISTORY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102147
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="UK-SD: DISCOVERY SCIENCE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery_Science.png" group-title="EU UK",UK-SD: DISCOVERY SCIENCE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102149
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="UK-SD: DISCOVERY TURBO" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery_Turbo.png" group-title="EU UK",UK-SD: DISCOVERY TURBO
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102151
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK-SD: NAT GEO" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nat_Geo.png" group-title="EU UK",UK-SD: NAT GEO
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102152
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK-SD: NAT GEO WILD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nat_Geo_Wild.png" group-title="EU UK",UK-SD: NAT GEO WILD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102153
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK-SD: ANIMAL PLANET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Animal_Planet.png" group-title="EU UK",UK-SD: ANIMAL PLANET
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102154
+#EXTINF:-1 tvg-ID="travelchannel.uk" tvg-name="UK-SD: TRAVEL CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/" group-title="EU UK",UK-SD: TRAVEL CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102155
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK-SD: CRIME&INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Crime+Inv.png" group-title="EU UK",UK-SD: CRIME&INVESTIGATION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102156
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: SKY NATURE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Nature.png" group-title="EU UK",UK-SD: SKY NATURE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102157
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK-SD: HISTORY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_History.png" group-title="EU UK",UK-SD: HISTORY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102159
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="UK-SD: HISTORY 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_History2.png" group-title="EU UK",UK-SD: HISTORY 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102160
+#EXTINF:-1 tvg-ID="horseandcountry.uk" tvg-name="UK-SD: HORSE AND COUNTRY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: HORSE AND COUNTRY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102161
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="UK-SD: INVESTIGATION DISCOVERY (ID)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: INVESTIGATION DISCOVERY (ID)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102162
+#EXTINF:-1 tvg-ID="keepitcountry.uk" tvg-name="UK-SD: KEEP IT COUNTRY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: KEEP IT COUNTRY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102163
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="UK-SD: SYFY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SYFY.png" group-title="EU UK",UK-SD: SYFY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102164
+#EXTINF:-1 tvg-ID="showcase.uk" tvg-name="UK-SD: SHOWCASE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Discovery_Showcase_HD.png" group-title="EU UK",UK-SD: SHOWCASE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102165
+#EXTINF:-1 tvg-ID="Paramount.uk" tvg-name="UK-SD: PARAMOUNT NETWORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Paramount_Channel.png" group-title="EU UK",UK-SD: PARAMOUNT NETWORK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102166
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: MUSIC =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: MUSIC =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102168
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: MTV LIVE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MTV.png" group-title="EU UK",UK-4K: MTV LIVE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102169
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="UK-4K: MTV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MTV_HD.png" group-title="EU UK",UK-4K: MTV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102170
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: SKY NATURE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Nature.png" group-title="EU UK",UK-4K: SKY NATURE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102171
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: MUSIC   =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: MUSIC   =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102172
+#EXTINF:-1 tvg-ID="clublandtv.uk" tvg-name="UK-SD: CLUBLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Clubland_TV.png" group-title="EU UK",UK-SD: CLUBLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102175
+#EXTINF:-1 tvg-ID="kerrang.uk" tvg-name="UK-SD: KERRANG" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Kerrang!.png" group-title="EU UK",UK-SD: KERRANG
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102176
+#EXTINF:-1 tvg-ID="kisstv.uk" tvg-name="UK-SD: KISS TV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/KISS.png" group-title="EU UK",UK-SD: KISS TV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102177
+#EXTINF:-1 tvg-ID="magic.uk" tvg-name="UK-SD: MAGIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Magic.png" group-title="EU UK",UK-SD: MAGIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102178
+#EXTINF:-1 tvg-ID="mtvbase.uk" tvg-name="UK-SD: MTV BASE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MTV BASE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102179
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="UK-SD: MTV CLASSIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MTV CLASSIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102180
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="UK-SD: MTV HITS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MTV_HITS.png" group-title="EU UK",UK-SD: MTV HITS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102181
+#EXTINF:-1 tvg-ID="mtvmusic.uk" tvg-name="UK-SD: MTV MUSIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MTV_MUSIC.png" group-title="EU UK",UK-SD: MTV MUSIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102182
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MTV ONE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MTV ONE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102183
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MTV LIVE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MTV.png" group-title="EU UK",UK-SD: MTV LIVE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102184
+#EXTINF:-1 tvg-ID="now80s.uk" tvg-name="UK-SD: NOW 80s" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/NOW_80s.png" group-title="EU UK",UK-SD: NOW 80s
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102185
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: NOW MUSIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: NOW MUSIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102186
+#EXTINF:-1 tvg-ID="thevault.uk" tvg-name="UK-SD: THE VAULT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: THE VAULT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102187
+#EXTINF:-1 tvg-ID="vh1.uk" tvg-name="UK-SD: VH1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: VH1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102188
+#EXTINF:-1 tvg-ID="thebox.uk" tvg-name="UK-SD: THE BOX" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: THE BOX
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102190
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="UK-SD: POP" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/POP.png" group-title="EU UK",UK-SD: POP
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102191
+#EXTINF:-1 tvg-ID="popmax.uk" tvg-name="UK-SD: POP MAX" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/POP_Max.png" group-title="EU UK",UK-SD: POP MAX
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102192
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MC MUSIC TODAYS COUNTRY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MC MUSIC TODAYS COUNTRY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102193
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MC MUSIC TODDLER TUNES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MC MUSIC TODDLER TUNES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102194
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MC MUSIC Y2K" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MC MUSIC Y2K
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102195
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: TRACE VAULT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Trace_Vault.png" group-title="EU UK",UK-SD: TRACE VAULT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102196
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: TRACE URBAN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Trace_Hits.png" group-title="EU UK",UK-SD: TRACE URBAN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102197
+#EXTINF:-1 tvg-ID="4music.uk" tvg-name="UK-SD: 4 MUSIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/4Music.png" group-title="EU UK",UK-SD: 4 MUSIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102198
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MC MUSIC TEEN BEATS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MC MUSIC TEEN BEATS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102200
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK-SD: SKY CINEMA PREMIERE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: SKY CINEMA PREMIERE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102201
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: MC MUSIC THROWBACK JAMZ" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: MC MUSIC THROWBACK JAMZ
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102202
+#EXTINF:-1 tvg-ID="" tvg-name="===== BEIN GROUP =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== BEIN GROUP =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102203
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="UK-HD: BEIN SPORT HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/beIN_Global.png" group-title="EU UK",UK-HD: BEIN SPORT HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102204
+#EXTINF:-1 tvg-ID="beinsportsnba.qa" tvg-name="UK-HD: BEIN SPORTS NBA HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/NBA-HD.png" group-title="EU UK",UK-HD: BEIN SPORTS NBA HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102205
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="UK-HD: BEIN SPORT NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/news.png" group-title="EU UK",UK-HD: BEIN SPORT NEWS HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102206
+#EXTINF:-1 tvg-ID="beinseries1.qa" tvg-name="UK-HD: BEIN SPORTS 1 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/1-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 1 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102207
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="UK-HD: BEIN SPORTS 2 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/2-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 2 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102208
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="UK-HD: BEIN SPORTS 3 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/3-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 3 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102209
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="UK-HD: BEIN SPORTS 4 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/4-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 4 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102210
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="UK-HD: BEIN SPORTS 5 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/5-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 5 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102211
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="UK-HD: BEIN SPORTS 6 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/6-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 6 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102212
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="UK-HD: BEIN SPORTS 7 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/7-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 7 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102213
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="UK-HD: BEIN SPORTS XTRA 1 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/xtra1-HD.png" group-title="EU UK",UK-HD: BEIN SPORTS XTRA 1 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102214
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="UK-HD: BEIN SPORTS XTRA 2 HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/xtra2-HD.png" group-title="EU UK",UK-HD: BEIN SPORTS XTRA 2 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102215
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="UK-HD: BEIN SPORTS 1 ENGLISH HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/eng-1-HD.png" group-title="EU UK",UK-HD: BEIN SPORTS 1 ENGLISH HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102216
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="UK-HD: BEIN SPORTS 2 ENGLISH HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/eng-2-HD.png" group-title="EU UK",UK-HD: BEIN SPORTS 2 ENGLISH HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102217
+#EXTINF:-1 tvg-ID="beinsports3en.qa" tvg-name="UK-HD: BEIN SPORTS 3 ENGLISH HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/eng-3-hd.png" group-title="EU UK",UK-HD: BEIN SPORTS 3 ENGLISH HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102218
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="UK-HD: BEIN SPORTS 1 FRENCH HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BEIN/Fr-1-HD.png" group-title="EU UK",UK-HD: BEIN SPORTS 1 FRENCH HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102219
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-HD: SPORTS  =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-HD: SPORTS  =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102223
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK-HD: SKY SPORTS NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_News_HD.png" group-title="EU UK",UK-HD: SKY SPORTS NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102224
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK-HD: SKY SPORTS ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png" group-title="EU UK",UK-HD: SKY SPORTS ACTION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102225
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK-HD: SKY SPORTS FOOTBALL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png" group-title="EU UK",UK-HD: SKY SPORTS FOOTBALL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102226
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK-HD: SKY SPORTS MAIN EVENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpMainEvHD.png" group-title="EU UK",UK-HD: SKY SPORTS MAIN EVENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102227
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK-HD: SKY SPORTS PREMIER LEAGUE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png" group-title="EU UK",UK-HD: SKY SPORTS PREMIER LEAGUE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102228
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK-HD: SKY SPORTS ARENA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_ArenaHD.png" group-title="EU UK",UK-HD: SKY SPORTS ARENA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102229
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK-HD: SKY SPORTS CRICKET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png" group-title="EU UK",UK-HD: SKY SPORTS CRICKET
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102230
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK-HD: SKY SPORTS F1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png" group-title="EU UK",UK-HD: SKY SPORTS F1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102231
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK-HD: SKY SPORTS GOLF" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png" group-title="EU UK",UK-HD: SKY SPORTS GOLF
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102232
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK-HD: BT SPORTS ESPN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BTSptESPNHD.png" group-title="EU UK",UK-HD: BT SPORTS ESPN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102233
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK-HD: BT SPORTS 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_1_HD.png" group-title="EU UK",UK-HD: BT SPORTS 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102234
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK-HD: BT SPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_2_HD.png" group-title="EU UK",UK-HD: BT SPORTS 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102235
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK-HD: BT SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_3_HD.png" group-title="EU UK",UK-HD: BT SPORTS 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102236
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| LaLiga TV FHD" tvg-logo="" group-title="EU UK",|UK-HD| LaLiga TV FHD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/198238
+#EXTINF:-1 tvg-ID="" tvg-name="UK-HD: CHELSEA TV (LIVE ON MATCHES)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-HD: CHELSEA TV (LIVE ON MATCHES)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102237
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK-HD: BOX NATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BoxNation.png" group-title="EU UK",UK-HD: BOX NATION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102238
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189498
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189499
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189500
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189501
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 5" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 5
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189502
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 6" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 6
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189503
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 7" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 7
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189504
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 8" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 8
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189505
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 9" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 9
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189506
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-HD| AMAZON PRIME HD 10" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-HD| AMAZON PRIME HD 10
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189507
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: SPORTS =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102242
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK-4K: SKY SPORTS NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_News_HD.png" group-title="EU UK",UK-4K: SKY SPORTS NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102243
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK-4K: SKY SPORTS ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png" group-title="EU UK",UK-4K: SKY SPORTS ACTION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102244
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK-4K: SKY SPORTS FOOTBALL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football_HD.png" group-title="EU UK",UK-4K: SKY SPORTS FOOTBALL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102245
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK-4K: SKY SPORTS PREMIER LEAGUE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL_HD.png" group-title="EU UK",UK-4K: SKY SPORTS PREMIER LEAGUE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102246
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK-4K: SKY SPORTS MAIN EVENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpMainEvHD.png" group-title="EU UK",UK-4K: SKY SPORTS MAIN EVENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102247
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK-4K: SKY SPORT MIX" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Mix_HD.png" group-title="EU UK",UK-4K: SKY SPORT MIX
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102248
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="UK-4K: SKY SPORTS RACING" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Racing_HD.png" group-title="EU UK",UK-4K: SKY SPORTS RACING
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102249
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK-4K: SKY SPORTS ARENA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_ArenaHD.png" group-title="EU UK",UK-4K: SKY SPORTS ARENA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102250
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK-4K: SKY SPORTS CRICKET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpCricket_HD.png" group-title="EU UK",UK-4K: SKY SPORTS CRICKET
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102251
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK-4K: SKY SPORTS F1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1_HD.png" group-title="EU UK",UK-4K: SKY SPORTS F1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102252
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK-4K: SKY SPORTS GOLF" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf_HD.png" group-title="EU UK",UK-4K: SKY SPORTS GOLF
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102253
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK-4K: BT SPORTS ESPN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BTSptESPNHD.png" group-title="EU UK",UK-4K: BT SPORTS ESPN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102254
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK-4K: BT SPORTS 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_1_HD.png" group-title="EU UK",UK-4K: BT SPORTS 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102255
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK-4K: BT SPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_2_HD.png" group-title="EU UK",UK-4K: BT SPORTS 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102256
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK-4K: BT SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_3_HD.png" group-title="EU UK",UK-4K: BT SPORTS 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102257
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK-4K: EUROSPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Eurosport_2.png" group-title="EU UK",UK-4K: EUROSPORTS 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102258
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="UK-4K: FREE SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/FreeSports_HD.png" group-title="EU UK",UK-4K: FREE SPORTS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102259
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK-4K: LFC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/LFCTV_HD.png" group-title="EU UK",UK-4K: LFC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102260
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="UK-4K: PREMIER SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Premier_1_HD.png" group-title="EU UK",UK-4K: PREMIER SPORTS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102261
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="UK-4K: PREMIER SPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Premier_2_HD.png" group-title="EU UK",UK-4K: PREMIER SPORTS 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102262
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK-4K: RACING UK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Racing_TV_HD.png" group-title="EU UK",UK-4K: RACING UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102263
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK-4K: MUTV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MUTV_HD.png" group-title="EU UK",UK-4K: MUTV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102264
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: CELTIC TV HD (LIVE ON MATCHES)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: CELTIC TV HD (LIVE ON MATCHES)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102265
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK-4K: EUROSPORTS 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Eurosport_1.png" group-title="EU UK",UK-4K: EUROSPORTS 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102266
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="UK-4K: BT SPORTS EXTRA 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_Extra_4.png" group-title="EU UK",UK-4K: BT SPORTS EXTRA 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102269
+#EXTINF:-1 tvg-ID="btsportx3.uk" tvg-name="UK-4K: BT SPORTS EXTRA 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_Extra_3.png" group-title="EU UK",UK-4K: BT SPORTS EXTRA 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102270
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK-4K: BT SPORTS EXTRA 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_Extra_2.png" group-title="EU UK",UK-4K: BT SPORTS EXTRA 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102271
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK-4K: BT SPORTS EXTRA 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_Extra_1.png" group-title="EU UK",UK-4K: BT SPORTS EXTRA 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102272
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189508
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189509
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189510
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189511
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 5" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 5
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189512
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 6" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 6
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189513
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 7" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 7
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189514
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 8" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 8
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189515
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 9" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 9
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189516
+#EXTINF:-1 tvg-ID="" tvg-name="|UK-4k| AMAZON PRIME FHD 10" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Amazone_Prime_video.png" group-title="EU UK",|UK-4k| AMAZON PRIME FHD 10
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/189517
+#EXTINF:-1 tvg-ID="" tvg-name="===== (UK-4K: EVENTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== (UK-4K: EVENTS =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102273
+#EXTINF:-1 tvg-ID="" tvg-name="UK-HD: PPV 1 (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/1163.png" group-title="EU UK",UK-HD: PPV 1 (ONLY MATCH TIME)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102274
+#EXTINF:-1 tvg-ID="" tvg-name="UK-HD: PPV 2 (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/1163.png" group-title="EU UK",UK-HD: PPV 2 (ONLY MATCH TIME)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102275
+#EXTINF:-1 tvg-ID="" tvg-name="UK-HD: PPV 3 (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/1163.png" group-title="EU UK",UK-HD: PPV 3 (ONLY MATCH TIME)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102276
+#EXTINF:-1 tvg-ID="" tvg-name="UK-HD: PPV 4 (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/1163.png" group-title="EU UK",UK-HD: PPV 4 (ONLY MATCH TIME)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102277
+#EXTINF:-1 tvg-ID="" tvg-name="UK-HD: PPV 6 (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/1163.png" group-title="EU UK",UK-HD: PPV 6 (ONLY MATCH TIME)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102278
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 48" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 48
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102279
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 47" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 47
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102280
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 46" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 46
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102281
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 45" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 45
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102282
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 44" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 44
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102283
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 43" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 43
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102284
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 42" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 42
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102285
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 41" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 41
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102286
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 40" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 40
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102287
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 39" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 39
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102288
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 38" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 38
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102289
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 37" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 37
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102290
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 36" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 36
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102291
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 35" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 35
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102292
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 34" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 34
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102293
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 33" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 33
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102294
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 32" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 32
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102295
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 31" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 31
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102296
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 30" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 30
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102297
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 29" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 29
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102298
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 28" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 28
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102299
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 27" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 27
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102300
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 26" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 26
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102301
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 25" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 25
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102302
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 24" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 24
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102303
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 23" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 23
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102304
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 22" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 22
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102305
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 21" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 21
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102306
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 20" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 20
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102307
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 19" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 19
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102308
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 18" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 18
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102309
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 17" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 17
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102310
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 16" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 16
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102311
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 15" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 15
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102312
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 14" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 14
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102313
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 12" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 12
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102314
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 13" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 13
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102315
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 11" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 11
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102316
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 10" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 10
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102317
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 9" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 9
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102318
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 8" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 8
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102319
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 7" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 7
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102320
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 6" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 6
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102321
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 5" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 5
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102322
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102323
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102324
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102325
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC RED BUTTON HD 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-4K: BBC RED BUTTON HD 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102326
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: SPORTS=====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: SPORTS=====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102327
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK-SD: SKY SPORTS NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_News.png" group-title="EU UK",UK-SD: SKY SPORTS NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102328
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK-SD: SKY SPORTS ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Action.png" group-title="EU UK",UK-SD: SKY SPORTS ACTION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102329
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK-SD: SKY SPORTS FOOTBALL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Football.png" group-title="EU UK",UK-SD: SKY SPORTS FOOTBALL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102330
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK-SD: SKY SPORTS MAIN EVENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySpMainEv.png" group-title="EU UK",UK-SD: SKY SPORTS MAIN EVENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102331
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK-SD: SKY SPORTS PREMIER LEAGUE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_PL.png" group-title="EU UK",UK-SD: SKY SPORTS PREMIER LEAGUE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102332
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="UK-SD: SKY SPORTS RACING" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Racing.png" group-title="EU UK",UK-SD: SKY SPORTS RACING
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102333
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK-SD: SKY SPORTS ARENA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Arena.png" group-title="EU UK",UK-SD: SKY SPORTS ARENA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102334
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK-SD: SKY SPORTS CRICKET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Cricket.png" group-title="EU UK",UK-SD: SKY SPORTS CRICKET
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102335
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK-SD: SKY SPORTS F1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_F1.png" group-title="EU UK",UK-SD: SKY SPORTS F1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102336
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK-SD: SKY SPORT MIX" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Mix.png" group-title="EU UK",UK-SD: SKY SPORT MIX
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102337
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK-SD: SKY SPORTS GOLF" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SkySp_Golf.png" group-title="EU UK",UK-SD: SKY SPORTS GOLF
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102338
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK-SD: BT SPORTS ESPN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_SportESPN.png" group-title="EU UK",UK-SD: BT SPORTS ESPN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102339
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK-SD: BT SPORTS 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_1.png" group-title="EU UK",UK-SD: BT SPORTS 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102340
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK-SD: BT SPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_2.png" group-title="EU UK",UK-SD: BT SPORTS 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102341
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK-SD: BT SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_3.png" group-title="EU UK",UK-SD: BT SPORTS 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102342
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BT SPORTS MOSAIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BT_Sport_Mosaic.png" group-title="EU UK",UK-SD: BT SPORTS MOSAIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102343
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK-SD: EUROSPORT 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Eurosport_1.png" group-title="EU UK",UK-SD: EUROSPORT 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102344
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CHELSEA TV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: CHELSEA TV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102345
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK-SD: EUROSPORT 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Eurosport_2.png" group-title="EU UK",UK-SD: EUROSPORT 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102346
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK-SD: BOX NATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BoxNation.png" group-title="EU UK",UK-SD: BOX NATION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102347
+#EXTINF:-1 tvg-ID="freesports.uk" tvg-name="UK-SD: FREE SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/FreeSports_HD.png" group-title="EU UK",UK-SD: FREE SPORTS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102348
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK-SD: MUTV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MUTV.png" group-title="EU UK",UK-SD: MUTV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102349
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="UK-SD: PREMIER SPORTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Premier_1_HD.png" group-title="EU UK",UK-SD: PREMIER SPORTS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102350
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="UK-SD: PREMIER SPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Premier_2_HD.png" group-title="EU UK",UK-SD: PREMIER SPORTS 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102351
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK-SD: RACING UK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Racing_TV.png" group-title="EU UK",UK-SD: RACING UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102352
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: MOVIES =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: MOVIES =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102353
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK-4K: SKY CINEMA ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Action_HD.png" group-title="EU UK",UK-4K: SKY CINEMA ACTION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102354
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="UK-4K: SKY CINEMA COMEDY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Comedy_HD.png" group-title="EU UK",UK-4K: SKY CINEMA COMEDY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102355
+#EXTINF:-1 tvg-ID="skydisney.uk" tvg-name="UK-4K: SKY CINEMA DISNEY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: SKY CINEMA DISNEY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102356
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK-4K: SKY CINEMA FAMILY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Family_HD.png" group-title="EU UK",UK-4K: SKY CINEMA FAMILY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102357
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK-4K: SKY CINEMA GREATS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Greats_HD.png" group-title="EU UK",UK-4K: SKY CINEMA GREATS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102358
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK-4K: SKY CINEMA SCI-FI & HORROR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_ScFiHorHD.png" group-title="EU UK",UK-4K: SKY CINEMA SCI-FI & HORROR
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102360
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: SKY CINEMA SUPERHEROES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: SKY CINEMA SUPERHEROES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102361
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK-4K: SKY CINEMA THRILLER" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Thriller_HD.png" group-title="EU UK",UK-4K: SKY CINEMA THRILLER
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102362
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK-4K: SKY CINEMA DRAMA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Drama_HD.png" group-title="EU UK",UK-4K: SKY CINEMA DRAMA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102363
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK-4K: SKY CINEMA HITS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Hits_HD.png" group-title="EU UK",UK-4K: SKY CINEMA HITS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102364
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: SKY CINEMA ANIMATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: SKY CINEMA ANIMATION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102365
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK-4K: SKY CINEMA PREMIERE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Premiere.png" group-title="EU UK",UK-4K: SKY CINEMA PREMIERE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102366
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK-4K: TCM" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: TCM
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102367
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="UK-4K: AMC" tvg-logo="http://vodkom.com:25461/Logo/ALL/AMC_HD.png" group-title="EU UK",UK-4K: AMC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102368
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK-4K: FILM 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Film4_HD.png" group-title="EU UK",UK-4K: FILM 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102369
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: MOVIES =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: MOVIES =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102370
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK-SD: SKY CINEMA ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Action.png" group-title="EU UK",UK-SD: SKY CINEMA ACTION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102371
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="UK-SD: SKY CINEMA COMEDY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Comedy.png" group-title="EU UK",UK-SD: SKY CINEMA COMEDY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102372
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK-SD: SKY CINEMA DRAMA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Drama_HD.png" group-title="EU UK",UK-SD: SKY CINEMA DRAMA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102373
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK-SD: SKY CINEMA FAMILY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Family.png" group-title="EU UK",UK-SD: SKY CINEMA FAMILY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102375
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK-SD: SKY CINEMA GREATS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Greats.png" group-title="EU UK",UK-SD: SKY CINEMA GREATS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102376
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK-SD: SKY CINEMA HITS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Hits_HD.png" group-title="EU UK",UK-SD: SKY CINEMA HITS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102377
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK-SD: SKY CINEMA SCI-FI & HORROR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_ScFiHorHD.png" group-title="EU UK",UK-SD: SKY CINEMA SCI-FI & HORROR
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102379
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: SKY CINEMA SUPERHEROES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: SKY CINEMA SUPERHEROES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102380
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK-SD: SKY CINEMA THRILLER" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Thriller_HD.png" group-title="EU UK",UK-SD: SKY CINEMA THRILLER
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102381
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK-SD: TCM" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TCM_Movies.png" group-title="EU UK",UK-SD: TCM
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102382
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="UK-SD: AMC" tvg-logo="http://vodkom.com:25461/Logo/ALL/AMC.png" group-title="EU UK",UK-SD: AMC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102383
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK-SD: FILM 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Film4.png" group-title="EU UK",UK-SD: FILM 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102384
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK-SD: HORROR CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/horror_channel.png" group-title="EU UK",UK-SD: HORROR CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102385
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: ENTERTAINMENT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: ENTERTAINMENT =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102386
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="UK-4K: TLC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TLC_HD.png" group-title="EU UK",UK-4K: TLC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102387
+#EXTINF:-1 tvg-ID="skywitnessplus1.uk" tvg-name="UK-4K: SKY WITNESS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Witness_HD.png" group-title="EU UK",UK-4K: SKY WITNESS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102388
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK-4K: SKY ARTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Arts_HD.png" group-title="EU UK",UK-4K: SKY ARTS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102389
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK-4K: SKY ATLANTIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Atlantic_HD.png" group-title="EU UK",UK-4K: SKY ATLANTIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102390
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: WATCH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/W_HD.png" group-title="EU UK",UK-4K: WATCH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102391
+#EXTINF:-1 tvg-ID="universal.uk" tvg-name="UK-4K: UNIVERSAL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: UNIVERSAL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102392
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: UTV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/UTV_UHD.png" group-title="EU UK",UK-4K: UTV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102393
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="UK-4K: STV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/STV_HD.png" group-title="EU UK",UK-4K: STV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102394
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK-4K: SKY ONE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: SKY ONE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102395
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK-4K: QUEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/QUEST_HD.png" group-title="EU UK",UK-4K: QUEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102396
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK-4K: MORE 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/More4_HD.png" group-title="EU UK",UK-4K: MORE 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102397
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: E! ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E!_HD.png" group-title="EU UK",UK-4K: E! ENTERTAINMENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102398
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK-4K: GOLD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/GOLD_HD.png" group-title="EU UK",UK-4K: GOLD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102400
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK-4K: EDEN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Eden.png" group-title="EU UK",UK-4K: EDEN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102402
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK-4K: DAVE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Dave_HD.png" group-title="EU UK",UK-4K: DAVE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102403
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: ENTERTAINMENT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: ENTERTAINMENT =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102404
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK-SD: SKY ONE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: SKY ONE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102405
+#EXTINF:-1 tvg-ID="sky2.uk" tvg-name="UK-SD: SKY TWO" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: SKY TWO
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102406
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK-SD: 4 SEVEN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/4seven.png" group-title="EU UK",UK-SD: 4 SEVEN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102407
+#EXTINF:-1 tvg-ID="5select.uk" tvg-name="UK-SD: 5 SELECT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/5SELECT.png" group-title="EU UK",UK-SD: 5 SELECT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102408
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK-SD: 5 STAR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/5STAR.png" group-title="EU UK",UK-SD: 5 STAR
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102409
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: 5 USA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/5_USA.png" group-title="EU UK",UK-SD: 5 USA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102410
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="UK-SD: BLAZE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BLAZE.png" group-title="EU UK",UK-SD: BLAZE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102412
+#EXTINF:-1 tvg-ID="cbsaction.uk" tvg-name="UK-SD: CBS ACTION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CBS_Justice.png" group-title="EU UK",UK-SD: CBS ACTION
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102413
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK-SD: CBS DRAMA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CBS_Drama.png" group-title="EU UK",UK-SD: CBS DRAMA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102414
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="UK-SD: CBS REALITY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CBS_Reality.png" group-title="EU UK",UK-SD: CBS REALITY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102415
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="UK-SD: CHALLENGE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Challenge.png" group-title="EU UK",UK-SD: CHALLENGE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102416
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK-SD: DAVE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Dave_HD.png" group-title="EU UK",UK-SD: DAVE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102417
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="UK-SD: DMAX" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/DMAX.png" group-title="EU UK",UK-SD: DMAX
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102418
+#EXTINF:-1 tvg-ID="drama.uk" tvg-name="UK-SD: DRAMA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Drama.png" group-title="EU UK",UK-SD: DRAMA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102419
+#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="UK-SD: E! ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E!.png" group-title="EU UK",UK-SD: E! ENTERTAINMENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102420
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK-SD: E4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E4.png" group-title="EU UK",UK-SD: E4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102421
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK-SD: EDEN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Eden.png" group-title="EU UK",UK-SD: EDEN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102422
+#EXTINF:-1 tvg-ID="fox.uk" tvg-name="UK-SD: FOX" tvg-logo="http://vodkom.com:25461/Logo/ALL/FOX_HD.png" group-title="EU UK",UK-SD: FOX
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102423
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK-SD: GOLD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/GOLD.png" group-title="EU UK",UK-SD: GOLD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102424
+#EXTINF:-1 tvg-ID="lifetime.uk" tvg-name="UK-SD: LIFETIME" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: LIFETIME
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102425
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK-SD: MORE 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/More4.png" group-title="EU UK",UK-SD: MORE 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102426
+#EXTINF:-1 tvg-ID="pbsamerica.uk" tvg-name="UK-SD: PBS AMERICA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/PBS_America.png" group-title="EU UK",UK-SD: PBS AMERICA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102427
+#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="UK-SD: PICK TV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Pick.png" group-title="EU UK",UK-SD: PICK TV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102428
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK-SD: QUEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/QUEST.png" group-title="EU UK",UK-SD: QUEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102429
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="UK-SD: QUEST RED" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Quest_Red.png" group-title="EU UK",UK-SD: QUEST RED
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102430
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="UK-SD: REALLY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Really.png" group-title="EU UK",UK-SD: REALLY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102431
+#EXTINF:-1 tvg-ID="sonymovies.uk" tvg-name="UK-SD: SONY MOVIES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/GREAT!_movies.png" group-title="EU UK",UK-SD: SONY MOVIES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102432
+#EXTINF:-1 tvg-ID="sonycrime2.uk" tvg-name="UK-SD: SONY CRIME 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: SONY CRIME 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102433
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: TRUE ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/GREAT!_tv.png" group-title="EU UK",UK-SD: TRUE ENTERTAINMENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102434
+#EXTINF:-1 tvg-ID="truemovies.uk" tvg-name="UK-SD: TRUE MOVIES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: TRUE MOVIES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102435
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: UNIVERSAL CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: UNIVERSAL CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102436
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: UTV ULSTER" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/UTV.png" group-title="EU UK",UK-SD: UTV ULSTER
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102438
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: WATCH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/W.png" group-title="EU UK",UK-SD: WATCH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102439
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: YESTERDAY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/YESTERDAY.png" group-title="EU UK",UK-SD: YESTERDAY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102441
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: SKY ATLANTIC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Atlantic.png" group-title="EU UK",UK-SD: SKY ATLANTIC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102442
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: SKY ARTS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Arts.png" group-title="EU UK",UK-SD: SKY ARTS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102443
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: SKY WITNESS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_Witness.png" group-title="EU UK",UK-SD: SKY WITNESS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102444
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: QVC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/QVC_HD.png" group-title="EU UK",UK-SD: QVC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102445
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: QVC STYLE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/QVC_Style_HD.png" group-title="EU UK",UK-SD: QVC STYLE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102446
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: QVC EXTRA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/QVC_Extra.png" group-title="EU UK",UK-SD: QVC EXTRA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102447
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: QVC BEAUTY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/QVC_Beauty.png" group-title="EU UK",UK-SD: QVC BEAUTY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102448
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: TLC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TLC.png" group-title="EU UK",UK-SD: TLC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102449
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: JML" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/JML_Direct.png" group-title="EU UK",UK-SD: JML
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102450
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: COMEDY CENTRAL EXTRA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/http://vodkom.com:25461/Logo/UK/LOGO/ComedyXtra.png" group-title="EU UK",UK-SD: COMEDY CENTRAL EXTRA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102451
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK-SD: COMEDY CENTRAL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ComedyCentral.png" group-title="EU UK",UK-SD: COMEDY CENTRAL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102452
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK COOKING =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK COOKING =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102453
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: FOOD NETWORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Food_Network.png" group-title="EU UK",UK-SD: FOOD NETWORK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102454
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: HOME" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: HOME
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102455
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: KIDS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: KIDS =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102456
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK-4K: CBEEBIES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CBeebies_HD.png" group-title="EU UK",UK-4K: CBEEBIES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102457
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: NICK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nickelodeon.png" group-title="EU UK",UK-4K: NICK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102458
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: COMEDY CENTRAL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ComedyCentral.png" group-title="EU UK",UK-4K: COMEDY CENTRAL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102459
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: DISNEY XD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: DISNEY XD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102460
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: DISNEY JUNIOR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: DISNEY JUNIOR
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102461
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: DISNEY CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: DISNEY CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102462
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: CARTOON NETWORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Cartoon_Net_HD.png" group-title="EU UK",UK-4K: CARTOON NETWORK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102463
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: KIDS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: KIDS =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102464
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BABY TV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BabyTV.png" group-title="EU UK",UK-SD: BABY TV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102465
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BOOMERANG" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Boomerang.png" group-title="EU UK",UK-SD: BOOMERANG
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102466
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CARTOONITO (NOT 24)" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Cartoonito.png" group-title="EU UK",UK-SD: CARTOONITO (NOT 24)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102467
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CARTOON NETWORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Cartoon_Network.png" group-title="EU UK",UK-SD: CARTOON NETWORK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102468
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: DISNEY CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: DISNEY CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102469
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: DISNEY JUNIOR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: DISNEY JUNIOR
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102470
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: DISNEY XD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: DISNEY XD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102471
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: NICK JR PEPPA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nick_Jr..png" group-title="EU UK",UK-SD: NICK JR PEPPA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102472
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: NICK JUNIOR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nick_Jr._HD.png" group-title="EU UK",UK-SD: NICK JUNIOR
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102473
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: NICKELODEON" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nickelodeon.png" group-title="EU UK",UK-SD: NICKELODEON
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102474
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: NICKTOONS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Nicktoons.png" group-title="EU UK",UK-SD: NICKTOONS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102475
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: TINY POP" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Tiny_Pop.png" group-title="EU UK",UK-SD: TINY POP
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102476
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: TINY POP+1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Tiny_Pop+1.png" group-title="EU UK",UK-SD: TINY POP+1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102477
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: NEWS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: NEWS =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102478
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: BBC NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_NEWS_HD.png" group-title="EU UK",UK-4K: BBC NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102480
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="UK-4K: BBC WORLD NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_WS.png" group-title="EU UK",UK-4K: BBC WORLD NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102481
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="UK-4K: BLOOMBERG" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Bloomberg_HD.png" group-title="EU UK",UK-4K: BLOOMBERG
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102482
+#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="UK-4K: CNN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CNN_HD.png" group-title="EU UK",UK-4K: CNN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102483
+#EXTINF:-1 tvg-ID="france24english.fr" tvg-name="UK-4K: FRANCE 24" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/FRANCE_24_HD.png" group-title="EU UK",UK-4K: FRANCE 24
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102484
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: RT AMERICA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: RT AMERICA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102485
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: RT DOCUMENTRY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-4K: RT DOCUMENTRY
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102486
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK-4K: SKY NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_News_HD.png" group-title="EU UK",UK-4K: SKY NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102487
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: RT NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/RT_Arabic_HD.png" group-title="EU UK",UK-4K: RT NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102488
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="UK-4K: RT UK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/RT_Arabic_HD.png" group-title="EU UK",UK-4K: RT UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102489
+#EXTINF:-1 tvg-ID="" tvg-name="===== (UK-SD)NEWS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== (UK-SD)NEWS =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102490
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="UK-SD: BBC NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_NEWS.png" group-title="EU UK",UK-SD: BBC NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102491
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="UK-SD: BBC WORLD NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_WS.png" group-title="EU UK",UK-SD: BBC WORLD NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102492
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="UK-SD: BLOOMBERG" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Bloomberg_HD.png" group-title="EU UK",UK-SD: BLOOMBERG
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102493
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK-SD: CNBC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CNBC.png" group-title="EU UK",UK-SD: CNBC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102494
+#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="UK-SD: CNN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CNN.png" group-title="EU UK",UK-SD: CNN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102495
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: FOX NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/My_Sky.png" group-title="EU UK",UK-SD: FOX NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102496
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="UK-SD: EURO NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Euronews.png" group-title="EU UK",UK-SD: EURO NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102497
+#EXTINF:-1 tvg-ID="france24english.fr" tvg-name="UK-SD: FRANCE 24 EN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/France_24_HD_En.png" group-title="EU UK",UK-SD: FRANCE 24 EN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102498
+#EXTINF:-1 tvg-ID="aljazeeraenglish.qa" tvg-name="UK-SD: AL JAZEERA EN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Al_Jazeera_HD.png" group-title="EU UK",UK-SD: AL JAZEERA EN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102499
+#EXTINF:-1 tvg-ID="rt.uk" tvg-name="UK-SD: RT NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/RT_Arabic_HD.png" group-title="EU UK",UK-SD: RT NEWS HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102500
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK-SD: SKY NEWS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Sky_News.png" group-title="EU UK",UK-SD: SKY NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102501
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-4K: GENERAL =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-4K: GENERAL =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102502
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK-4K: BBC 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_HD.png" group-title="EU UK",UK-4K: BBC 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102504
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK-4K: BBC 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Two_HD.png" group-title="EU UK",UK-4K: BBC 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102505
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK-4K: BBC 3/CBBC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Three_HD.png" group-title="EU UK",UK-4K: BBC 3/CBBC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102506
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK-4K: BBC 4/CBEEBIES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Four_HD.png" group-title="EU UK",UK-4K: BBC 4/CBEEBIES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102507
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="UK-4K: BBC SCOTLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Scotland.png" group-title="EU UK",UK-4K: BBC SCOTLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102508
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="UK-4K: ITV 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV_HD.png" group-title="EU UK",UK-4K: ITV 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102509
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK-4K: ITV 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV2_HD.png" group-title="EU UK",UK-4K: ITV 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102510
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK-4K: ITV 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV3_HD.png" group-title="EU UK",UK-4K: ITV 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102511
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK-4K: ITV 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV4_HD.png" group-title="EU UK",UK-4K: ITV 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102512
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: ITV BE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITVBe.png" group-title="EU UK",UK-4K: ITV BE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102513
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK-4K: CHANNEL 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4_HD.png" group-title="EU UK",UK-4K: CHANNEL 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102514
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK-4K: CHANNEL 5" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_5_HD.png" group-title="EU UK",UK-4K: CHANNEL 5
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102515
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK-4K: E4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E4_HD.png" group-title="EU UK",UK-4K: E4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102516
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK-4K: ALIBI" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/alibi_HD.png" group-title="EU UK",UK-4K: ALIBI
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102517
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK-4K: 4 SEVEN" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/4seven.png" group-title="EU UK",UK-4K: 4 SEVEN
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102518
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK-4K: CBBC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CBBC_HD.png" group-title="EU UK",UK-4K: CBBC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102519
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK-SD: GENERAL =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK-SD: GENERAL =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102520
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="UK-SD: BBC1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_HD.png" group-title="EU UK",UK-SD: BBC1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102521
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="UK-SD: BBC2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Two.png" group-title="EU UK",UK-SD: BBC2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102522
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="UK-SD: BBC3/CBBC" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Three.png" group-title="EU UK",UK-SD: BBC3/CBBC
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102523
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="UK-SD: BBC4/CBEEBIES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Four.png" group-title="EU UK",UK-SD: BBC4/CBEEBIES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102524
+#EXTINF:-1 tvg-ID="bbcparliament.uk" tvg-name="UK-SD: BBC PARLIAMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Parliament.png" group-title="EU UK",UK-SD: BBC PARLIAMENT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102525
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="UK-SD: CHANNEL 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4.png" group-title="EU UK",UK-SD: CHANNEL 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102526
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="UK-SD: CHANNEL 5" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_5.png" group-title="EU UK",UK-SD: CHANNEL 5
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102527
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="UK-SD: ITV 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102528
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="UK-SD: ITV 2" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV2.png" group-title="EU UK",UK-SD: ITV 2
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102529
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="UK-SD: ITV 3" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV3.png" group-title="EU UK",UK-SD: ITV 3
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102530
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="UK-SD: ITV 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV4.png" group-title="EU UK",UK-SD: ITV 4
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102531
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="UK-SD: ITV BE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITVBe.png" group-title="EU UK",UK-SD: ITV BE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102532
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK-SD: ALIBI" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/alibi.png" group-title="EU UK",UK-SD: ALIBI
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102533
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: Arise News" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Arise_News.png" group-title="EU UK",UK-SD: Arise News
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102534
+#EXTINF:-1 tvg-ID="citv.uk" tvg-name="UK-SD: CITV" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CITV.png" group-title="EU UK",UK-SD: CITV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102535
+#EXTINF:-1 tvg-ID="" tvg-name="===== UK LOCAL =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-eng.png" group-title="EU UK",===== UK LOCAL =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102536
+#EXTINF:-1 tvg-ID="itvwales.uk" tvg-name="UK-SD: ITV WALES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV_Wales_HD.png" group-title="EU UK",UK-SD: ITV WALES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102537
+#EXTINF:-1 tvg-ID="itvborder.uk" tvg-name="UK-SD: ITV BORDER" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV BORDER
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102538
+#EXTINF:-1 tvg-ID="itvyorkshire.uk" tvg-name="UK-SD: ITV YORKSHIRE WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV YORKSHIRE WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102539
+#EXTINF:-1 tvg-ID="itvyorkshireplus.uk" tvg-name="UK-SD: ITV YORKSHIRE TV EAST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV YORKSHIRE TV EAST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102540
+#EXTINF:-1 tvg-ID="itvwestcountry.uk" tvg-name="UK-SD: ITV WESTCOUNTRY WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV WESTCOUNTRY WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102541
+#EXTINF:-1 tvg-ID="itvwestcountryplus.uk" tvg-name="UK-SD: ITV WESTCOUNTRY SOUTH WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV WESTCOUNTRY SOUTH WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102542
+#EXTINF:-1 tvg-ID="itvtynetees.uk" tvg-name="UK-SD: ITV TYNE TEES TV NORTH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV TYNE TEES TV NORTH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102543
+#EXTINF:-1 tvg-ID="itvtyneteesplus.uk" tvg-name="UK-SD: ITV MERIDIAN TV SOUTH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV MERIDIAN TV SOUTH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102544
+#EXTINF:-1 tvg-ID="itvmeridian.uk" tvg-name="UK-SD: ITV MERIDIAN TV NORTH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV MERIDIAN TV NORTH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102545
+#EXTINF:-1 tvg-ID="itvmeridianplus.uk" tvg-name="UK-SD: ITV MERIDIAN EAST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV MERIDIAN EAST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102546
+#EXTINF:-1 tvg-ID="itvgranada.uk" tvg-name="UK-SD: ITV GRANADA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV GRANADA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102547
+#EXTINF:-1 tvg-ID="itvcentral.uk" tvg-name="UK-SD: ITV CENTRAL WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV CENTRAL WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102548
+#EXTINF:-1 tvg-ID="itvcentralplus.uk" tvg-name="UK-SD: ITV CENTRAL EAST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV CENTRAL EAST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102549
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: ITV ANGLIA WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV ANGLIA WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102550
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: ITV ANGLIA EAST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV ANGLIA EAST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102551
+#EXTINF:-1 tvg-ID="itvtynetees.uk" tvg-name="UK-SD: ITV TYNE TEES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV TYNE TEES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102552
+#EXTINF:-1 tvg-ID="itvlondon.uk" tvg-name="UK-SD: ITV LONDON" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ITV.png" group-title="EU UK",UK-SD: ITV LONDON
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102553
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CHANNEL 4 SOUTH AND EAST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4.png" group-title="EU UK",UK-SD: CHANNEL 4 SOUTH AND EAST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102554
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CHANNEL 4 SCOTLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4.png" group-title="EU UK",UK-SD: CHANNEL 4 SCOTLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102555
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CHANNEL 4 NORTHEN IRELAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4.png" group-title="EU UK",UK-SD: CHANNEL 4 NORTHEN IRELAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102556
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CHANNEL 4 NORTH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4.png" group-title="EU UK",UK-SD: CHANNEL 4 NORTH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102557
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: CHANNEL 4 MIDLANDS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Channel_4.png" group-title="EU UK",UK-SD: CHANNEL 4 MIDLANDS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102558
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC TWO WALES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Two_Wales.png" group-title="EU UK",UK-SD: BBC TWO WALES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102559
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC TWO NORTHEN IRELAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Two_NI.png" group-title="EU UK",UK-SD: BBC TWO NORTHEN IRELAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102560
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC TWO ENGLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_Two.png" group-title="EU UK",UK-SD: BBC TWO ENGLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102561
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE YORKSHIRE & LINCOLNSHIRE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_Yk&Li.png" group-title="EU UK",UK-SD: BBC ONE YORKSHIRE & LINCOLNSHIRE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102562
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE YORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_Yorks.png" group-title="EU UK",UK-SD: BBC ONE YORK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102563
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE WEST MIDLANDS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_W_Mid.png" group-title="EU UK",UK-SD: BBC ONE WEST MIDLANDS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102564
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_West.png" group-title="EU UK",UK-SD: BBC ONE WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102565
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE WALES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_Wales.png" group-title="EU UK",UK-SD: BBC ONE WALES
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102566
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE SCOTLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_Scotland.png" group-title="EU UK",UK-SD: BBC ONE SCOTLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102567
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE SOUTH WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_S_West.png" group-title="EU UK",UK-SD: BBC ONE SOUTH WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102568
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC One South East" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_S_East.png" group-title="EU UK",UK-SD: BBC One South East
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102569
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE SOUTH" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_South.png" group-title="EU UK",UK-SD: BBC ONE SOUTH
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102570
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE OXFORD" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_Oxford.png" group-title="EU UK",UK-SD: BBC ONE OXFORD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102571
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE NORTHEN ISLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_NI.png" group-title="EU UK",UK-SD: BBC ONE NORTHEN ISLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102572
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE NORTH WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_N_West.png" group-title="EU UK",UK-SD: BBC ONE NORTH WEST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102573
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE NORTH EAST & CUMBRIA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_NE&C.png" group-title="EU UK",UK-SD: BBC ONE NORTH EAST & CUMBRIA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102574
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE LONDON" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_London.png" group-title="EU UK",UK-SD: BBC ONE LONDON
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102575
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE EAST MIDLANDS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_E_Mid.png" group-title="EU UK",UK-SD: BBC ONE EAST MIDLANDS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102576
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE EAST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_East_E.png" group-title="EU UK",UK-SD: BBC ONE EAST
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102577
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE CHANNEL ISLANDS" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_CI.png" group-title="EU UK",UK-SD: BBC ONE CHANNEL ISLANDS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102578
+#EXTINF:-1 tvg-ID="" tvg-name="UK-SD: BBC ONE CAMBRIDGE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/" group-title="EU UK",UK-SD: BBC ONE CAMBRIDGE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102579
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="UK-SD: BBC SCOTLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_One_Scotland.png" group-title="EU UK",UK-SD: BBC SCOTLAND
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102580
+#EXTINF:-1 tvg-ID="bbcalba.uk" tvg-name="UK-SD: BBC ALBA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBC_ALBA.png" group-title="EU UK",UK-SD: BBC ALBA
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102581
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BLOOMBERG TV" tvg-logo="" group-title="EU UK",|UK| BLOOMBERG TV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194226
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| CNN INTERNATIONAL EUROPE" tvg-logo="" group-title="EU UK",|UK| CNN INTERNATIONAL EUROPE
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194227
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| FASHION TV" tvg-logo="" group-title="EU UK",|UK| FASHION TV
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194228
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| FILMSTREAMS" tvg-logo="" group-title="EU UK",|UK| FILMSTREAMS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194229
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| MAVTV SELECT" tvg-logo="" group-title="EU UK",|UK| MAVTV SELECT
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194230
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| REVRY NEWS" tvg-logo="" group-title="EU UK",|UK| REVRY NEWS
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194231
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Travel XP" tvg-logo="" group-title="EU UK",|UK| Travel XP
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194232
+#EXTINF:-1 tvg-ID="" tvg-name="===== RAKUTEN =====" tvg-logo="" group-title="EU UK",===== RAKUTEN =====
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194233
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RAKUTEN COMEDY MOVIES UK" tvg-logo="" group-title="EU UK",|UK| RAKUTEN COMEDY MOVIES UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194234
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RAKUTEN SPOTLIGHT UK" tvg-logo="" group-title="EU UK",|UK| RAKUTEN SPOTLIGHT UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194235
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RAKUTEN ACTION MOVIES UK" tvg-logo="" group-title="EU UK",|UK| RAKUTEN ACTION MOVIES UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194236
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RAKUTEN TOP FREE UK" tvg-logo="" group-title="EU UK",|UK| RAKUTEN TOP FREE UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194237
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RAKUTEN TV SHOWS UK" tvg-logo="" group-title="EU UK",|UK| RAKUTEN TV SHOWS UK
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/194238
+#EXTINF:-1 tvg-ID="beinsports1enar.qa" tvg-name="BEIN SPORTS 1 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH FHD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/36295
+#EXTINF:-1 tvg-ID="beinsports2enar.qa" tvg-name="BEIN SPORTS 2 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 ENGLISH FHD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/36294
+#EXTINF:-1 tvg-ID="beinsports3enar.qa" tvg-name="BEIN SPORTS 3 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-3-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 ENGLISH FHD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/36293
+#EXTINF:-1 tvg-ID="" tvg-name="UK-4K: SMITHSONIAN CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/Smithsonian_HD.png" group-title="EU UK",UK-4K: SMITHSONIAN CHANNEL
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/102135
+#EXTINF:-1 tvg-ID="" tvg-name="|US| SMITHSONIAN HD (EAST)" tvg-logo="" group-title="USA ENTERTAINMENTS",|US| SMITHSONIAN HD (EAST)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/157990
+#EXTINF:-1 tvg-ID="" tvg-name="|US| SMITHSONIAN HD (WEST)" tvg-logo="" group-title="USA ENTERTAINMENTS",|US| SMITHSONIAN HD (WEST)
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/157991
+#EXTINF:-1 tvg-ID="" tvg-name="|US| SMITHSONIAN CHANNEL HD" tvg-logo="" group-title="USA DOCUMENTARY",|US| SMITHSONIAN CHANNEL HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/158055
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT PLAY HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT PLAY HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116674
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT MAXIMO 1" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT MAXIMO 1
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116675
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT BLITZ HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT BLITZ HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116676
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT EVENTS HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT EVENTS HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116677
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT MOTORSPORT HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT MOTORSPORT HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116678
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT GOLF HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT GOLF HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116679
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT CRICKET HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT CRICKET HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116680
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT RUGBY HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT RUGBY HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116681
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT TENNIS HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT TENNIS HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116682
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT FOOTBAL PLUS HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT FOOTBAL PLUS HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116683
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT LALIGA HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT LALIGA HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116684
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT PREMIER LEAGUE HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT PREMIER LEAGUE HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116685
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT FOOTBALL HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT FOOTBALL HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116686
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT PSL HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT PSL HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116687
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT ACTION HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT ACTION HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116688
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 1 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 1 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116689
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 2 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 2 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116690
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 3 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 3 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116691
+#EXTINF:-1 tvg-ID="" tvg-name="AF: SUPERSPORT VARIETY 4 HD" tvg-logo="" group-title="AF SPORT",AF: SUPERSPORT VARIETY 4 HD
+http://sansat.net:25461/VBZZVXBF6F/DWOW7MVWVZ/116692
+
